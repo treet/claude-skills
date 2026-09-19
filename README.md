@@ -15,6 +15,8 @@ agents/
   compliance-reviewer.md            fresh-context reviewer: checks code vs the project's own rules
 ```
 
+`badges/` holds SVG logomarks used to label a PR comment as written by a coding agent.
+
 ## How the PR-landing skills fit together
 
 - **`finalize`** is the entry point: **prune → solution-review → beyond-the-diff
