@@ -2,6 +2,6 @@
 
 These are the logomarks that label a pull request comment as written by a coding agent rather than typed by the account holder.
 
-`claude-mark.svg` holds Claude's mark in `#D97757`. `openai-mark.svg` holds OpenAI's mark in `#10A37F`. `gemini-mark.svg` holds Google Gemini's mark in `#8E75B2`. All three come from simple-icons, each recoloured to its own brand colour.
+`claude-mark.svg` holds Claude's mark in `#D97757`. `openai-mark.svg` holds OpenAI's mark in `#10A37F`. `gemini-mark.svg` holds Google Gemini's mark in `#8E75B2`. These three come from simple-icons, each recoloured to its own brand colour. `qwen-mark.svg` holds Qwen's mark in `#615CED`, from LobeHub's icon set (MIT licence), because simple-icons has none.
 
 `raw.githubusercontent.com` serves an SVG as `image/svg+xml`, which is the content type GitHub requires to render one inside a comment. The height attribute on the tag that references a mark sets the size it appears at.
